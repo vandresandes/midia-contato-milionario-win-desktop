@@ -1,1 +1,4 @@
-# midia-contato-milionario-win-desktop
+# Mídia - Contato Milionário
+
+Desenvolvido por
+Vandré Benamor Sandes
